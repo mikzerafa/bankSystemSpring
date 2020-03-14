@@ -1,0 +1,1 @@
+{"name":"\"mik\"","pin":"\"0124\"","accountNumber":"1","beneficiaryName":"\"mik\"","pinNumber":"\"0124\"","funds":0.0};{"name":"\"mikhail\"","pin":"\"0122\"","accountNumber":"2","beneficiaryName":"\"mikhail\"","pinNumber":"\"0122\"","funds":0.0};{"name":"\"mikhl\"","pin":"\"0111\"","accountNumber":"3","beneficiaryName":"\"mikhl\"","pinNumber":"\"0111\"","funds":0.0};
